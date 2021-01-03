@@ -44,6 +44,7 @@ public class AppupgradePlugin implements FlutterPlugin, MethodCallHandler {
 
     @Override
     public void onMethodCall(@NonNull MethodCall call, @NonNull Result result) {
+        Toast.makeText(mContext, call.method, Toast.LENGTH_LONG).show();
         if ("getAppInfo".equals(call.method)) {
             getAppInfo(mContext, result);
         } else if ("getApkDownloadPath".equals(call.method)) {

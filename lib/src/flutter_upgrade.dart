@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:appupgrade/appupgrade.dart';
 
 class FlutterUpgrade {
-  static const MethodChannel _channel = const MethodChannel('flutter_app_upgrade');
+  static const MethodChannel _channel = const MethodChannel('appupgrade');
 
   ///
   /// 获取app信息
