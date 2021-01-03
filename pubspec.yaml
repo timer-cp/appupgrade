@@ -1,8 +1,9 @@
 name: appupgrade
-description: A plugin of app upgrade
-version: 0.0.1
-author:
-homepage:
+description: appupgrade - Flutter App Upgrade Package. 一个Flutter应用检查更新及应用升级的插件包，参考：flutter_app_upgrade , 本插件Android使用Java编写，iOS使用OC编写。
+version: 0.1.1
+#author: Timer
+homepage: https://github.com/timer-cp
+repository: https://github.com/timer-cp/appupgrade.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

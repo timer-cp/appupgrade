@@ -4,12 +4,6 @@ A plugin of app upgrade
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+功能和插件[flutter_app_upgrade](https://pub.flutter-io.cn/packages/flutter_app_upgrade)，flutter_app_upgrade使用和swift开发，本插件包使用Java和OC进行改写。
+具体功能可参考[flutter_app_upgrade](https://pub.flutter-io.cn/packages/flutter_app_upgrade)。
 
