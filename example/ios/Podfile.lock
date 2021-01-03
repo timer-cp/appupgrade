@@ -1,0 +1,22 @@
+PODS:
+  - appupgrade (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - appupgrade (from `.symlinks/plugins/appupgrade/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  appupgrade:
+    :path: ".symlinks/plugins/appupgrade/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  appupgrade: 7b156110eef068760fc675479f33443d88cc2fc5
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.9.3
